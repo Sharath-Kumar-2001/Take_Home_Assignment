@@ -32,15 +32,17 @@ This project enables users to **query the Monetary Policy Report using natural l
 ```bash
 git clone https://github.com/username/repository-name.git
 cd repository-name
-
+```
 2️⃣ Create and activate virtual environment
+```bash
 python -m venv venv
 venv\Scripts\activate
-
+```
 3️⃣ Install dependencies
+```bash
 pip install -r requirements.txt
-
+```
 4️⃣ Run the backend application
+```bash
 fastapi dev main.py
-frontend application
-npm run dev
+```
