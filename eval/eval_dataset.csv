@@ -1,0 +1,19 @@
+id,question,ground_truth,difficulty,reasoning_type
+E1,How did headline PCE inflation change over the year ending May 2024?,Headline PCE inflation declined from 4.0 percent a year earlier to 2.6 percent in May 2024.,easy,numeric_comparison
+E2,Does headline PCE inflation remain above the FOMC’s longer-run objective?,Yes. At 2.6 percent headline PCE inflation remains above the FOMC’s 2 percent objective.,easy,fact_lookup
+E3,What was the 12-month core PCE inflation rate in May 2024?,Core PCE inflation was 2.6 percent over the 12 months ending in May 2024.,easy,fact_lookup
+E4,How did monthly core PCE inflation behave in early 2024?,Monthly core PCE inflation firmed in the first quarter of 2024 and then eased in April and May.,medium,trend_analysis
+E5,What does the trimmed mean PCE inflation measure indicate for May 2024?,Trimmed mean PCE inflation increased 2.8 percent over the 12 months ending in May 2024.,easy,fact_lookup
+E6,How did PCE energy prices change over the 12 months ending in May 2024?,PCE energy prices increased 4.8 percent over the 12 months ending in May 2024.,easy,numeric_comparison
+E7,What factors contributed to rising oil prices in the first half of 2024?,Rising oil prices reflected geopolitical tensions shipping rerouting away from the Red Sea and ongoing OPEC+ production cuts.,medium,causal_reasoning
+E8,How did food price inflation change from its peak to May 2024?,Food price inflation slowed from a peak of 12.2 percent in August 2022 to 1.2 percent in May 2024.,medium,numeric_comparison
+E9,How do food and energy prices in 2024 compare with 2019 levels?,Food prices are about 25 percent higher and energy prices are about 32 percent higher than in 2019.,easy,fact_lookup
+E10,How did core goods prices change over the 12 months ending in May 2024?,Core goods prices declined 1.1 percent over the 12 months ending in May 2024.,easy,numeric_comparison
+E11,What explains recent progress on core goods inflation?,Progress reflects easing supply chain constraints and improved supply-demand balance in goods markets.,hard,causal_reasoning
+E12,What survey evidence supports easing supply constraints?,The share of firms citing insufficient labor or materials has fallen to near pre-pandemic levels.,medium,evidence_lookup
+E13,How did housing services inflation change from May 2023 to May 2024?,Housing services inflation declined from over 8 percent in May 2023 to 5.5 percent in May 2024.,easy,numeric_comparison
+E14,How has market rent inflation behaved since late 2022?,Market rent inflation has fallen markedly since late 2022 to near pre-pandemic rates.,medium,trend_analysis
+E15,What does slowing market rent inflation imply for housing services inflation?,It suggests housing services inflation is likely to continue easing over the year ahead.,hard,inference
+E16,What are the causes of inflation in general?,I don't know.,easy,abstention
+E17,What monetary policy actions did the Federal Reserve take in June 2024?,I don't know.,easy,abstention
+E18,What is the long-run neutral interest rate?,I don't know.,easy,abstention
