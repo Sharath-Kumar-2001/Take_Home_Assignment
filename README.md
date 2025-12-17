@@ -24,7 +24,7 @@ Economic analysts often need quick answers to focused questions such as:
 ### ✅ Solution
 This project enables users to **query the Monetary Policy Report using natural language**, allowing fast, accurate, and repeatable access to economic insights.
 
-![Architecture Diagram](docs/architecture.png)
+![Architecture Diagram](https://mermaidchart.com/play?utm_source=mermaid_live_editor&utm_medium=share#pako:eNp9T11rgzAU_Styn60EjTPJw8CtdBQ6GOv2MvISNGqpJiVG9iH-90XTbuyhy9P5uOeemxEKXUpgULX6vWiEscHLmqvAvddemmC1ug02RisrVenlC1usO1Ecf5wz8RnR2_xpe454shjP-YMXHfCT-Xa__yvtdo9ecOD_bdf7r988_4srCKE2hxKYNYMMoZOmEzOFcY5wsI3sJAfmYCkrMbSWA1eTi52EetO6uySNHuoGWCXa3rHhVAor1wdRG_E74qqludeDssDosgHYCB_AkhhHGCcEUUKzFMfO_ASWkSjL4huKEpIQklI6hfC1VKIoJRnGKSIoJihBePoGYVGDTA)
 
 
 ### steps to install
