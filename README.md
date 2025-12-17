@@ -24,7 +24,7 @@ Economic analysts often need quick answers to focused questions such as:
 ### ✅ Solution
 This project enables users to **query the Monetary Policy Report using natural language**, allowing fast, accurate, and repeatable access to economic insights.
 
-![Architecture Diagram](docs/architecture.png)
+![Architecture Diagram](architecture.png)
 
 
 ### steps to install
