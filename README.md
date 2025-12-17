@@ -29,6 +29,7 @@ This project enables users to **query the Monetary Policy Report using natural l
 
 ### steps to install
 1️⃣ Clone the repository
+```bash
 git clone https://github.com/username/repository-name.git
 cd repository-name
 
